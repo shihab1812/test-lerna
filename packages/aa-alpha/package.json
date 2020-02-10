@@ -1,6 +1,6 @@
 {
   "name": "@test-lerna/aa-alpha",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publishConfig": {
     "access": "public"
   },
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "c626346609683ccaa8bb813439c584cfecfa3eff"
+  "gitHead": "23f28d67cc0b4562770944c5a4ff693990ca62ce"
 }
