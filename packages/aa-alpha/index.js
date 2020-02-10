@@ -1,1 +1,1 @@
-module.exports = 'aa-alpha'
+module.exports = 'aa-alpha-1'
